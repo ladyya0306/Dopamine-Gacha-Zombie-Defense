@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --font-pixel: "VT323", monospace;
+  --font-pixel: "Courier New", monospace;
 }
 
 body {
-  font-family: "VT323", monospace;
+  font-family: "Courier New", monospace;
   background-color: #1a1a2e;
   margin: 0;
   overflow: hidden;
